@@ -1,6 +1,7 @@
 from slackclient import SlackClient
 import yaml
 import datetime
+import os
 
 
 class SlackEarningsService:
